@@ -11,7 +11,7 @@ Brasília, Junho de 2025
 
 ---
 
-<!-- INSIRA O CONTEÚDO DO SEU README AQUI! -->
+
 
 ---
 
